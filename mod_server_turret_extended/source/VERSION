@@ -1,8 +1,0 @@
-{
-  "version": 3.13,
-  "source": "mod_serverTurretExtended.py",
-  "meta": "configs/meta.xml",
-  "config": "configs/serverTurretExtended.json",
-  "i18n": "configs/i18n",
-  "resources": []
-}
