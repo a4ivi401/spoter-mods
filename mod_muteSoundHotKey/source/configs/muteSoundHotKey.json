@@ -1,8 +1,0 @@
-﻿{
-    "enabled": true,
-    "hotkey": [ 67 ],
-    "restoreSoundAfterBattleEnd": true,
-    "showMessage": true,
-    "mutedSoundVolume": 0,
-    "version": 103
-}
